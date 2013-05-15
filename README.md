@@ -5,7 +5,7 @@ ExtendsJS 는 Javascript 의 기본 객체를 확장하여 보다 편리하게 �
 ## 현재 확장된 객체
 
 * [String](https://github.com/insanehong/extendsJS/wiki/String)
-
+* [Number](https://github.com/insanehong/extendsJS/wiki/Number)
 
 ## LiCENSE
 The MIT License
